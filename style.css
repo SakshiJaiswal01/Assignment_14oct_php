@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#sidebar{
+    height: 100px;
+    text-align:center;
+    font-size: larger;
+    padding-top: 33px;
+}
+#logout{
+    height: 158px;
+}
+#login{
+    background: url(../Assignment_14oct/image/loginimg.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;   
+}
+#logincard{
+    opacity: 0.8;
+    width: 98%;
+}
+.change{
+    width: 130.9%;
+    opacity: 0.8;
+}
+.changep{
+    width: 130.9%;
+    opacity: 0.9;
+}
+.feed{
+    width: 150%;
+    opacity: 0.8;
+}
